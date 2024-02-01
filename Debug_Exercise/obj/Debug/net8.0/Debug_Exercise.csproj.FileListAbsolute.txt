@@ -1,0 +1,14 @@
+C:\Users\misso\source\repos\Debug_Exercise\bin\Debug\net8.0\Debug_Exercise.exe
+C:\Users\misso\source\repos\Debug_Exercise\bin\Debug\net8.0\Debug_Exercise.deps.json
+C:\Users\misso\source\repos\Debug_Exercise\bin\Debug\net8.0\Debug_Exercise.runtimeconfig.json
+C:\Users\misso\source\repos\Debug_Exercise\bin\Debug\net8.0\Debug_Exercise.dll
+C:\Users\misso\source\repos\Debug_Exercise\bin\Debug\net8.0\Debug_Exercise.pdb
+C:\Users\misso\source\repos\Debug_Exercise\obj\Debug\net8.0\Debug_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misso\source\repos\Debug_Exercise\obj\Debug\net8.0\Debug_Exercise.AssemblyInfoInputs.cache
+C:\Users\misso\source\repos\Debug_Exercise\obj\Debug\net8.0\Debug_Exercise.AssemblyInfo.cs
+C:\Users\misso\source\repos\Debug_Exercise\obj\Debug\net8.0\Debug_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\misso\source\repos\Debug_Exercise\obj\Debug\net8.0\Debug_Exercise.dll
+C:\Users\misso\source\repos\Debug_Exercise\obj\Debug\net8.0\refint\Debug_Exercise.dll
+C:\Users\misso\source\repos\Debug_Exercise\obj\Debug\net8.0\Debug_Exercise.pdb
+C:\Users\misso\source\repos\Debug_Exercise\obj\Debug\net8.0\Debug_Exercise.genruntimeconfig.cache
+C:\Users\misso\source\repos\Debug_Exercise\obj\Debug\net8.0\ref\Debug_Exercise.dll
